@@ -1,4 +1,4 @@
-# Previos websites
+# Previous websites
 I have created this repository to share the previos versions of my website with you all.
 
 There are list of my versions:
